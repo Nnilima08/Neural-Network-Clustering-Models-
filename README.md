@@ -4,4 +4,4 @@ While our model builds upon this foundational concept, it introduces several key
 
 Below, we present a 2D visualization of the embeddings produced by our autoencoder model applied to the 3NG dataset, which consists of three selected categories from the 20 Newsgroups dataset.
 
-![Uploading 2D_Embedded.png…]()
+![2D_Embedded](https://github.com/user-attachments/assets/106bed17-b7e1-4512-9e3c-58f115682d06)
